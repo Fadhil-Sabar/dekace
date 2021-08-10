@@ -210,7 +210,7 @@ body {
 
 .main-red-button a {
   display: inline-block;
-  background-color: #fe3f40;
+  background-color: #159447;
   font-size: 15px;
   font-weight: 400;
   color: #fff;
@@ -951,7 +951,7 @@ About Us Style
   background-image: url(../images/about-bg.png);
   background-repeat: no-repeat;
   background-position: center center;
-  background-size: cover;
+  background-size: auto;
   padding: 140px 0px 120px 0px;
 }
 
